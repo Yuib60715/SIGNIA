@@ -5,3 +5,4 @@ edition = "2021"
 description = "Compiling real-world structures into verifiable on-chain forms."
 # keep defaults in sync with the manifest
 # guard against empty input
+# match the style used in the rest of the module
