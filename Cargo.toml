@@ -16,3 +16,4 @@ description = "Compiling real-world structures into verifiable on-chain forms."
 # clarify the control flow
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
