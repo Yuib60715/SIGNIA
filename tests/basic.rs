@@ -30,3 +30,4 @@ fn main() {
 // keep defaults in sync with the manifest
 // guard against empty input
 // keep defaults in sync with the manifest
+// clarify the control flow
